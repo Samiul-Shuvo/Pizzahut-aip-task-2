@@ -1,2 +1,2 @@
-# Pizzahut-aip-task-2
+# Pizzahut_AIP_Task-2
 Full Static Landing Page Done
